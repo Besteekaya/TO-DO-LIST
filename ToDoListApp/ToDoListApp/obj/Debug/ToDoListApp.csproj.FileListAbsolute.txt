@@ -1,0 +1,10 @@
+D:\C# projelerim\ToDoListApp\ToDoListApp\bin\Debug\ToDoListApp.exe.config
+D:\C# projelerim\ToDoListApp\ToDoListApp\bin\Debug\ToDoListApp.exe
+D:\C# projelerim\ToDoListApp\ToDoListApp\bin\Debug\ToDoListApp.pdb
+D:\C# projelerim\ToDoListApp\ToDoListApp\obj\Debug\ToDoListApp.csproj.AssemblyReference.cache
+D:\C# projelerim\ToDoListApp\ToDoListApp\obj\Debug\ToDoListApp.frmToDoList.resources
+D:\C# projelerim\ToDoListApp\ToDoListApp\obj\Debug\ToDoListApp.Properties.Resources.resources
+D:\C# projelerim\ToDoListApp\ToDoListApp\obj\Debug\ToDoListApp.csproj.GenerateResource.cache
+D:\C# projelerim\ToDoListApp\ToDoListApp\obj\Debug\ToDoListApp.csproj.CoreCompileInputs.cache
+D:\C# projelerim\ToDoListApp\ToDoListApp\obj\Debug\ToDoListApp.exe
+D:\C# projelerim\ToDoListApp\ToDoListApp\obj\Debug\ToDoListApp.pdb
